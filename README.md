@@ -1,2 +1,2 @@
-# eladioescubido
+# eladioescobido
 IT110
